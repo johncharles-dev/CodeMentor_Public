@@ -46,7 +46,7 @@
 | 🎨 Frontend    | React.js (Vite), TailwindCSS, Javascript         |
 | 🖥️ Backend     | Python, Flask, OpenAI API, Tree-sitter, ast     |
 | 🧠 ML Logic    | Bayesian Learning, Reinforcement Learning       |
-| 🧰 Dev Tools   | g++, subprocess, Postman, PlantUML              |
+| 🧰 Dev Tools   | g++, Postman          |
 
 ---
 
