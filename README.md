@@ -26,8 +26,8 @@
 | 🧪 Technique | 📝 Description |
 |-------------|----------------|
 | **AST Parsing** | Converts Python code into structured Abstract Syntax Trees |
-| **Bayesian Mapping** | Probabilistic translation using subjective logic [1] |
-| **Reinforcement Learning** | Learns from real code execution using Q-learning principles [3] |
+| **Bayesian Mapping** | Probabilistic translation using subjective logic  |
+| **Reinforcement Learning** | Learns from real code execution using Q-learning principles  |
 | **Execution Feedback** | Validates and compares translated C++ output with Python |
 | **Fallback Handling** | Gracefully handles unsupported AST nodes |
 
