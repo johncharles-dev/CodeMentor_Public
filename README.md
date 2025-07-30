@@ -69,6 +69,8 @@ For every translation:
 
 ![Home_page UI](screenshots/UI_Demo_2.png)
 
+![UI](screenshots/Services_UI.png)
+
 ### 🔹 Translation
 ![translation](screenshots/Translation.png)
 
