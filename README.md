@@ -64,8 +64,21 @@ For every translation:
 
 ## 📸 Screenshots
 
-> 🖼️ Available in `screenshots/` and `Appendix A` of the full report  
-> Includes: UI, service outputs, API tests, RL reward update logs
+### 🔹 CodeMentor UI
+![Home_page UI](screenshots/UI_Demo.png)
+
+![Home_page UI](screenshots/UI_Demo_2.png)
+
+### 🔹 Translation
+![translation](screenshots/Translation.png)
+
+### 🔹 Reconstruction
+![Reconstruction](screenshots/Reconstruction.png)
+
+### 🔹 Reinforcement Reward 
+![Rewarding](screenshots/Rewarding.png)
+
+
 
 ---
 
